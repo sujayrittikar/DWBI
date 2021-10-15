@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "LookupTransformation", "LookupTransformation\LookupTransformation.dtproj", "{66B1FD1A-8F7C-4BB3-BE02-9EEF79C6742C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66B1FD1A-8F7C-4BB3-BE02-9EEF79C6742C}.Development|Default.ActiveCfg = Development
+		{66B1FD1A-8F7C-4BB3-BE02-9EEF79C6742C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E7F56F0-9622-4DD1-8BD6-AA1509CF5E15}
+	EndGlobalSection
+EndGlobal
